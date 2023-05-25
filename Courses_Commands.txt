@@ -1,0 +1,8 @@
+git config --global
+git config --global user.name "nameGoesHere"
+git config --global user.email "emailHere"
+git config --global list
+man git ~~~~~~~~~~~~~~~~~~~~~~~
+git help
+git init
+
