@@ -1,0 +1,35 @@
+[33mcommit 9133512ed23db04c249a71b03100b9c7297e1b46[m[33m ([m[1;36mHEAD -> [m[1;32mnew_branch[m[33m)[m
+Author: Abdul Halim Khan <abdulhalimkhan271@gmail.com>
+Date:   Sat May 27 00:14:31 2023 +0600
+
+    Add few commands
+
+[33mcommit c528ca5f1cd4e4216922e730f059ca1e11ba54cc[m[33m ([m[1;32mMain[m[33m)[m
+Author: Abdul Halim Khan <abdulhalimkhan271@gmail.com>
+Date:   Fri May 26 22:23:35 2023 +0600
+
+    Remove test.txt
+
+[33mcommit 881807f8459fbacdef3fca92014f65c14b5a4a4b[m[33m ([m[1;31morigin/Main[m[33m)[m
+Author: Abdul Halim Khan <abdulhalimkhan271@gmail.com>
+Date:   Fri May 26 17:46:50 2023 +0600
+
+    git push completed
+
+[33mcommit 83a07ed9b68ce770ca60c74a6bdce31a3fa7e244[m
+Author: Abdul Halim <abdulhalimkhan271@gmail.com>
+Date:   Fri May 26 16:38:44 2023 +0600
+
+    Deleted copied file
+
+[33mcommit 11b6e8fefb8183a77c714398cb0264869695e3ee[m
+Author: Abdul Halim <abdulhalimkhan271@gmail.com>
+Date:   Fri May 26 11:41:49 2023 +0600
+
+    added remote origin
+
+[33mcommit 054ef09c9e53fa5b4f0d80d9dc7558b9fd6e923b[m
+Author: Abdul Halim <abdulhalimkhan271@gmail.com>
+Date:   Thu May 25 17:51:09 2023 +0600
+
+    initial commit

@@ -5,6 +5,7 @@ git config --global list
 man git ~~~~~~~~~~~~~~~~~~~~~~~
 git help
 git init
+git status
 git remote add origin "http..............."
 git add . / git add file.extension file.extension file.ex
 git commit -m "message"
@@ -18,6 +19,15 @@ git rm --cached [filename] // untracks file
 git mv oldfileName newFilename // renaming file ,, similliar to removing and adding tracking
 git checkout -b [new_branch_name]
 git checkout [branch_name]
+git branch -a or -r
+git stash // in case of switching branch while there are files that are staged but uncommitted
+		//switch branch make changes,track or stage or git add but don't commit and try to switch back to another branch
+git stash -u //includes even untracked files
+git stash list
+git stash show
+git stash clear
+git stash pop
+git stash apply
 
 
 		//git visualizer
