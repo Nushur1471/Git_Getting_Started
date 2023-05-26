@@ -8,7 +8,7 @@ git init
 git remote add origin "http..............."
 git add . / git add file.extension file.extension file.ex
 git commit -m "message"
-git push
+git push // git push [upstream branch] [local branch]
 git status -s / git status -short
 git diff --staged
 git diff --staged --no-renames
