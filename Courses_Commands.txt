@@ -8,9 +8,17 @@ git init
 git remote add origin "http..............."
 git add . / git add file.extension file.extension file.ex
 git commit -m "message"
-git push / git push [upstream branch] [local branch]
+git push / git push [upstream_branch] [local_branch]
 git status -s / git status -short
 git diff --staged
 git diff --staged --no-renames
 git log / git log -[number of commits] / git log --oneline / git log --stat(little detailed) / git log --patch (detailed) // We can filter by author,date etc etc
-git rm
+git rm // completely removes file
+git rm --cached [filename] // untracks file
+git mv oldfileName newFilename // renaming file ,, similliar to removing and adding tracking
+git checkout -b [new_branch_name]
+git checkout [branch_name]
+
+
+		//git visualizer
+https://git-school.github.io/visualizing-git/
