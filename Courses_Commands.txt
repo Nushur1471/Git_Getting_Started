@@ -14,3 +14,4 @@ git diff --staged
 git diff --staged --no-renames
 git log / git log -[number of commits] / git log --oneline / git log --stat(little detailed) / git log --patch (detailed) // We can filter by author,date etc etc
 git rm
+git branch -r // remote branches or -a for remote and local branches
